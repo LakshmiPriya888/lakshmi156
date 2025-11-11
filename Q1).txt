@@ -2,6 +2,7 @@ Q1)
 It sounds like Zenith Consulting is facing a classic case of team dysfunction. Based on the situation you've described, here are the group dysfunctions present in Rohan Mehta's project team and their impact on team effectiveness:
 
 Identified Group Dysfunctions:
+Priya Satish
 
 Drawing upon Patrick Lencioni's "Five Dysfunctions of a Team" model, we can identify several key dysfunctions at play:
 
@@ -120,4 +121,5 @@ Justification: This strategy is rooted in the importance of Shared Vision in Tra
 
 Technique: Clearly delineate the specific areas of responsibility and decision-making authority for both the CEO and the CTO. While collaboration is crucial, having well-defined roles can minimize overlap and potential for conflict arising from differing approaches in the same domain. For instance, Ananya might have primary responsibility for operational efficiency and scaling processes, while Vikram could lead innovation strategy and research & development, with built-in mechanisms for regular communication and strategic alignment.   
 Justification: This approach draws upon principles of Role Theory and Organizational Structure. Clearly defined roles reduce ambiguity and potential for conflict arising from power struggles or differing interpretations of responsibilities. When each leader has a defined domain, they can implement their preferred style within that area while understanding how it contributes to the overall organizational goals. This can help create a balance between structure and autonomy at different levels of the organization.   
+
 By implementing these conflict resolution techniques, Orion Tech can facilitate a process where Ananya and Vikram move beyond their entrenched positions, understand each other's perspectives, and collaboratively forge a unified vision for the company's future. This alignment at the top is crucial for fostering a cohesive and high-performing organizational culture.
